@@ -6,14 +6,11 @@ export const HeaderStyled = styled.header`
     height: 10vh;
 
     margin: 0 auto;
+    padding: 2rem;
 
     display: flex;
     align-items: center;
     justify-content: space-between;
-
-    position: sticky;
-    top: 0;
-    z-index: 10;
 
     background-color: transparent;
 

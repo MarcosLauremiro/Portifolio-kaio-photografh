@@ -6,9 +6,9 @@ export const Header = () => {
             <h1>Kaio</h1>
 
             <nav>
-                <a href="">Sobre mim</a>
-                <a href="">Fotos</a>
-                <a href="">Contato</a>
+                <a href="#about">Sobre mim</a>
+                <a href="#photos">Fotos</a>
+                <a href="#contact">Contato</a>
             </nav>
         </HeaderStyled>
     )
